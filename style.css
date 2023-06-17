@@ -1,0 +1,266 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    overflow-X: hidden;
+}
+
+.logo-sec{
+    height: 360px;
+    width: 55%;
+    float: left;
+    background-color: white;
+}
+.entry-img{
+    background-image: url("https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_1340/Lunch1_vlksgq");
+    float: left;
+    background-size: cover;
+    height: 360px;
+    width: 45%;
+}
+
+.sec-row{
+    width: 100%;
+    height: 269px;
+    background-color: #2b1e16;
+    float: left;
+}
+.first-png{
+    height: 269px;
+    width: 33%;
+    float: left;
+    align-items: center;
+}
+.second-png{
+    height: 269px;
+    width: 33%;
+    float: left;
+}
+.third-png{
+    height: 269px;
+    width: 33%;
+    float: left;
+}
+.img{
+    padding-left: 33%;
+    width: 80px;
+}
+.swiggylogo{
+    width: 125px;
+    padding-left: 50px;
+    padding-top: 35px;
+    
+    
+}
+.swiggylogoo{
+    width: 50%;
+    height: 100px;
+
+float: left;
+}
+.loginsec{
+    width: 50%;
+    height: 100px;
+
+float: left;
+}
+.login-btn-design{
+    font-size: 10px;
+    border: none;
+    background-color: white;
+    padding-right: 11px;
+    font-weight: bold;
+}
+
+.ss{
+    padding-left: 84px;
+    padding-top: 46px;
+}
+.signupbtn{
+background-color: black;
+color: white;
+border: none;
+box-sizing: 20px;
+height: 26px;
+    width: 75px;
+    font-size: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.login-btn-design:hover{
+    color: orange;
+    cursor: pointer;
+}
+.frontpage-text{
+    display: inline-block;
+    padding-left: 50px;
+}
+.h1-font{
+    font-size: 25px;
+    color: rgba(16, 15, 15, 0.829);
+}
+.para-first{
+    color: gray;
+
+    
+    
+}
+.signup{
+    background: #fff;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    margin-top: 29px;
+    overflow: hidden;
+
+}
+.signup input{
+    flex: 1;
+    
+    
+}
+.input-feeld{
+    height: 35px;
+    border: 1px solid #FC8019;
+    width: 20px;
+    font-size: 11px;
+    font-weight: bold;
+    padding-left: 19px;
+   
+}
+.input-btn{
+    height: 39px;
+    background-color:#FC8019;
+    border: 0;
+    font-size: 11px;
+    font-weight: bold;
+    color: white;
+    width: 93px;
+    border: 1px solid #FC8019;
+    cursor: pointer;
+}
+.text3{
+    font-size: 10px;
+    color: rgba(128, 128, 128, 0.865);
+}
+.text4{
+    font-size: 9px;
+    color: rgba(128, 128, 128, 0.992);
+    font-weight: bold;
+    
+}
+.span{
+    color: rgba(128, 128, 128, 0.923);
+}
+.order-sec{
+    padding-left: 75px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+}
+.order-sec-para{
+    color: rgba(255, 255, 255, 0.786);
+    font-size: 9px;
+    padding-left: 60px;
+}
+
+.third-sec-col{
+    width: 100%;
+    height: 380px;
+    float: left;
+}
+
+.img-phone{
+    width: 100%;
+  height: auto;
+  background-size: cover;
+  
+  
+}
+
+
+footer {
+    background-color: #000000;
+    padding-right: 200px;
+    color: white;
+  }
+  
+  .footer-table {
+    width: 100%;
+    border-collapse: collapse;
+    
+  }
+  
+  .footer-table td {
+    padding: 60px;
+    vertical-align: top;
+  }
+  
+  .company-cell,
+  .contact-cell,
+  .legal-cell {
+    width: 40%;
+    padding: -10px;
+  }
+  
+  
+  .legal-cell strong {
+    font-weight: bold;
+  }
+  
+ 
+  .legal-cell p {
+    margin: 5px 0;
+  }
+  .title{
+    color: gray;
+    font-size: 10px;
+     
+  }
+  .para-title{
+    font-size: 10px;
+    font-weight: 400;
+  }
+  .playstore-img{
+    height: 45px;
+    width: 140px;
+    padding-left: 40px;
+    
+  }
+  .appstore-img{
+    height: 45px;
+    width: 140px;
+    padding-top: 10px;
+    padding-left: 40px;
+    margin-bottom: 15px;
+    
+  }
+  .appstore-img:hover{
+    transform: scale(1.09);
+  }
+  .playstore-img:hover{
+    transform: scale(1.08);
+  }
+  .four-sec{
+    display: flex;
+    align-items: start;
+    position: relative;
+    padding-left: 80px;
+    padding-top: 50px;
+    
+    
+  }
+  .footer-icon{
+    margin-left: -20%;
+    float: right;
+    padding-left: 80px;
+    margin-right: -250px;
+  }
+  
+
+
+
+  
+
+
+
+
